@@ -1,0 +1,38 @@
+body {
+    background-image: url(bg.jpg);
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: aliceblue;
+    font-weight: bolder;
+    /* text-align: center; */
+    font-size: x-large;
+}
+
+.heading {
+    font-size: xxx-large;
+    /* text-align: center; */
+    color: rgb(241, 175, 9);
+    margin-top: 119px;
+    /* (267, 25, 57) */
+}
+
+.btn {
+    color: #016f32;
+    border: none;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    font-size: large;
+    width: 285px;
+    background-color: goldenrod;
+    height: 40px;
+}
+
+.container {
+    margin: 10px;
+}
